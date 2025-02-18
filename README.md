@@ -1,5 +1,6 @@
-hello 
-<a>a new alternative disable thermal will release soon.
+ # Recall Thermal
+a new alternative disable thermal release
+
 ![hirauki ngentod](https://github.com/user-attachments/assets/fabd59e3-daa3-40b1-91f7-73f9f474258a)
 **unleash the ability**
 <a/>
